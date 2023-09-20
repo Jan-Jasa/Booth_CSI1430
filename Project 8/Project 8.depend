@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663812103 source:c:\users\janja\documents\csi\project 8\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

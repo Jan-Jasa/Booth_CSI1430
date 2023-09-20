@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665022626 source:c:\users\janja\documents\csi\project 12\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+

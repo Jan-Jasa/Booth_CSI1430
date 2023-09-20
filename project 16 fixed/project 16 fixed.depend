@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1666976062 source:c:\users\janja\documents\csi\project 16 fixed\myfunctions.cpp
+	"myFunctions.h"
+
+1666976334 c:\users\janja\documents\csi\project 16 fixed\myfunctions.h
+	<cassert>
+
+1666975777 source:c:\users\janja\documents\csi\project 16 fixed\main.cpp
+	"myFunctions.h"
+	"myFunctions.cpp"
+	<iostream>
+
+1666981449 c:\users\janja\documents\csi\project 16 fixed\myfunctions.cpp
+	"myFunctions.h"
+

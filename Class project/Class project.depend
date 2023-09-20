@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1669767620 source:c:\users\janja\documents\csi\class project\main.cpp
+	<iostream>
+	"SDL_Plotter.h"
+
+1669766969 c:\users\janja\documents\csi\class project\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1669767099 source:c:\users\janja\documents\csi\class project\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
